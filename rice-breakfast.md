@@ -1,4 +1,4 @@
-# Cheese naans
+# Rice breakfast
 
 This is what I eat most mornings and whenever I'm hungry during the day.
 These quantities usually last approximately a week.
