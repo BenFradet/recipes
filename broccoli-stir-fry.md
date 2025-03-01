@@ -1,6 +1,6 @@
 # Broccoli stir-fry
 
-Quantities are four two persons.
+Quantities are for two persons.
 
 ## Ingredients
 
