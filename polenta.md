@@ -4,16 +4,15 @@ Quantities are for 4 persons.
 
 ## Ingredients
 
-| Item             | Quantity  | Comments                                   |
-|------------------|-----------|--------------------------------------------|
-| polenta          | 260gr     |                                            |
-| spinach          | a bunch   | 4-5 big leaves / person                    |
-| eggs             | 4         |                                            |
-| olive oil        | 2 tbsps   |                                            |
-| black pepper     | a pinch   |                                            |
-| paprika          | 4 pinches | or other red pepper spice, qty to taste    |
-| tomato pulp      | 400gr     | tomato pulp or tomato flesh                |
-| emmental cheese  | 100gr     |                                            |
+| Item             | Quantity  | Comments                                                  |
+|------------------|-----------|-----------------------------------------------------------|
+| polenta          | 260gr     |                                                           |
+| spinach          | a bunch   | 4-5 big leaves / person                                   |
+| olive oil        | 2 tbsps   | and more                                                  |
+| black pepper     | a pinch   |                                                           |
+| paprika          | 4 pinches | and/or other spices (ginger, curcuma, etc.), qty to taste |
+| tomato pulp      | 400gr     | tomato pulp or tomato flesh                               |
+| emmental cheese  | 100gr     |                                                           |
 
 ## Process
 
@@ -26,12 +25,12 @@ Quantities are for 4 persons.
 - Add the polenta
 - Add the spinach
 - Mix with a wooden spoon for 3 to 4 minutes until it is thick
-- Get the saucepan off the heat, add pepper and paprika
+- Get the saucepan off the heat, add pepper and other spices
 - Put the mix in a gratin dish
+- Add the tomato pulp
+- Mix
 - Level the polenta in the dish
 - Let it cool and harden
-- Pre-cut 6 pieces
-- Coat with the tomato pulp
-- Add the cheese
-- Put in a oven for 30 minutes at 180C
-- Cook the fried eggs in a pan
+- Add olive oil on the top
+- Grate the cheese on top
+- Put in a oven for 30 minutes at 200C
